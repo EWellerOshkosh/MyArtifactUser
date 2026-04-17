@@ -1,2 +1,3 @@
 # MyArtifactUser
-Uses My Artifact To Print out the packages version. Demonstrates GitHub Packages
+
+Console app that references the `MyArtifact` package from GitHub Packages and prints `hello world`.
