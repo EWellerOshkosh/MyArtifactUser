@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MyArtifact" Version="*" />
+    <PackageReference Include="MyArtifact" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
